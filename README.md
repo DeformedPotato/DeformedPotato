@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently and always learning 
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me ...
+- 📫 How to reach me - potato.github@gmail.com
 
 <!---
 DeformedPotato/DeformedPotato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
